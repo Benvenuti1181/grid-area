@@ -1,1 +1,3 @@
-// This is a comment :)
+// This is a comment 
+//Comment
+console.log("de!");
