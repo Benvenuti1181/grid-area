@@ -58,3 +58,7 @@
 .div42 {
     grid-area: 2 / 1 / 3 / 4;
 }
+
+.branch-class {
+    color: #5639cc;
+}
